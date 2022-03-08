@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Matheus Trinca
+## I'm Matheus
 - I live in :brazil:, Marília - SP :sunglasses:
 - I have been learning more about React and Node.js :sparkling_heart:
 
