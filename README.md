@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Matheus
-- I live in :brazil:, Marília - SP :sunglasses:
+- :sunglasses:
 - I have been learning more about React and Node.js :sparkling_heart:
 
 
