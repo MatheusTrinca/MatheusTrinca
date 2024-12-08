@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Matheus
 - :sunglasses:
-- I have been learning more about backend development!!
+- I have been learning more about Full Stack development!!
 
 <!--
 ## Connect with me:
